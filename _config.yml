@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.linkedin.com/in/aidanculp"
 
 # Analytics
 analytics:
@@ -104,7 +104,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AidanJCulp"
-    - label: "Linked-In"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aidanculp"
 
@@ -115,9 +115,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AidanJCulp"
-    - label: "Linked-In"
-      icon: "fab fa-fw fa-instagram"
-      url: "www.linkedin.com/in/aidanculp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aidanculp"
 
 
 # Reading Files
