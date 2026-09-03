@@ -33,7 +33,7 @@ gallery:
 
 ---
 
-[Arduino Project]({{ '/arduino/' | https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino }})
+[Arduino Project]({{ '/assets/' | https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino }})
 
 ---
 
