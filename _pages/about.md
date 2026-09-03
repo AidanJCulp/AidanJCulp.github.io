@@ -4,7 +4,7 @@ title: "About Aidan"
 
 ---
 
-### Vanderbilt biomedical engineering student with experience in medical device prototyping, CAD and fabrication, medical imaging, and deep learning. Passionate about developing technologies that improve patient care.
+#### Vanderbilt biomedical engineering student with experience in medical device prototyping, CAD and fabrication, medical imaging, and deep learning. Passionate about developing technologies that improve patient care.
 
 ---
 
