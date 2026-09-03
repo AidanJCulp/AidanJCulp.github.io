@@ -62,7 +62,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 | [LMUU linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)                             | 1                   | 
 | [20 x 40 V-Slot aluminum linear rail](https://openbuildspartstore.com/v-slot-20x40-linear-rail/)                                  | 1                   | 
 | [NEMA 17 stepper motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)                                                | 1                   | 
-| [MEAN WELL RQ-65D AC-DC quad output power supply](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc= | 1                 | 
+| [MEAN WELL RQ-65D AC-DC quad output power supply](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | 1                 | 
 | [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ)                                                          | 1                   | 
 | [A4988 stepper driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1)                                                 | 1                   | 
 | [REXQualist 400-point breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1)                                      | 1                   | 
