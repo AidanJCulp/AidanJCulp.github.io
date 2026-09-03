@@ -40,15 +40,12 @@
 @import "minimal-mistakes/print";
 
 @media (min-width: 64em) {
-  /* Keep the left sidebar in its own column */
   .sidebar {
     width: 250px;
   }
 
-  /* Main content uses the remaining screen width */
   .page {
     width: calc(100% - 250px);
-    margin-left: 250px;
   }
 
   .page__inner-wrap {
