@@ -18,21 +18,21 @@ title: "About Aidan"
 ## Work Experience
 
 ### Department of Ophthalmology and Visual Sciences, Vanderbilt University Medical Center
-#### Engineering Research Intern --- Nashville, TN --- May 2026 - Present
+**Engineering Research Intern** --- Nashville, TN --- May 2026 - Present
 * Established manual image-analysis and segmentation protocols in IMARIS for 50+ optic nerve images
 * Developed an automated optic nerve segmentation pipeline using Python, nnUNet, and deep learning
 * Achieved Dice scores above 95% for 3D segmentation models using 5-fold cross-validation
 * Authored materials/methods and results sections of a manuscript for publication
 
 ### Zelik Lab, Center for Rehabilitation Engineering and Assistive Technology
-#### Undergraduate Research Assistant --- Nashville, TN --- August 2025 – May 2026
+**Undergraduate Research Assistant** --- Nashville, TN --- August 2025 – May 2026
 * Investigated methods for characterizing fitness tracker wear and compliance across remote scenarios
 * Analyzed fitness tracker wear across multiple participants for 30 days of remote-use data
 * Communicated findings through reports, posters, and presentations to Vanderbilt researchers
 * Assisted with motion-capture data collection for collaborative rehabilitation-engineering studies
 
 ### Vanderbilt Programs for Talented Youth
-#### Resident Assistant --- Nashville, TN --- May 2025 - July 2025
+**Resident Assistant** --- Nashville, TN --- May 2025 - July 2025
 * Mentored and supervised talented students from across the country in a residential STEM program
 * Designed robotics and programming activities for students with an interest in STEM
 
