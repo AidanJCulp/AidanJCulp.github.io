@@ -51,7 +51,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 * Refill or replace the syringe and reposition the carriage for the next cycle
 
 
---
+---
 
 [Arduino Code](https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino)
 
