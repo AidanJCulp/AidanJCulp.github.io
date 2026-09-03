@@ -4,7 +4,7 @@ title: "About Aidan"
 
 ---
 
-Vanderbilt biomedical engineering student with experience in medical device prototyping, CAD and fabrication, medical imaging, and deep learning. Passionate about developing technologies that improve patient care.
+## Vanderbilt biomedical engineering student with experience in medical device prototyping, CAD and fabrication, medical imaging, and deep learning. Passionate about developing technologies that improve patient care.
 
 ---
 
@@ -17,7 +17,7 @@ Vanderbilt biomedical engineering student with experience in medical device prot
 
 ## Work Experience
 
-# Department of Ophthalmology and Visual Sciences, Vanderbilt University Medical Center
+### Department of Ophthalmology and Visual Sciences, Vanderbilt University Medical Center
 Engineering Research Intern
 Nashville, TN
 May 2026 - Present
