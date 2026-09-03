@@ -14,6 +14,12 @@ gallery:
 
 ---
 
+# Purpose
+
+Design and prototype an automated syringe pump that can precisely administer liquids over a long period of time.
+
+---
+
 # Features
 
 * Compatible with 10 mL & 20 mL syringes
@@ -33,7 +39,21 @@ gallery:
 
 ---
 
-[Arduino Project](https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino)
+# Operating Instructions
+* Connect the syringe pump to the power supply
+* Fill either the 10 mL or 20 mL syringe with the desired liquid
+* Insert the syringe into the support brackets
+* Press the latching start/pause button to begin operation
+* During operation, the LED should be green
+* Press the start/pause button again to pause operation
+* The LED should turn yellow
+* When the syringe reaches its end position, motion stops automatically and the LED turns red
+* Refill or replace the syringe and reposition the carriage for the next cycle
+
+
+--
+
+[Arduino Code](https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino)
 
 ---
 
