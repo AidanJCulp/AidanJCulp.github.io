@@ -38,3 +38,18 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Maximize page width */
+@media (min-width: 64em) {
+  .page {
+    width: 100%;
+  }
+
+  .page__inner-wrap {
+    width: 100%;
+  }
+
+  .archive {
+    width: 100%;
+  }
+}
