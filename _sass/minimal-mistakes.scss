@@ -39,17 +39,19 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-/* Maximize page width */
 @media (min-width: 64em) {
+  /* Keep the left sidebar in its own column */
+  .sidebar {
+    width: 250px;
+  }
+
+  /* Main content uses the remaining screen width */
   .page {
-    width: 100%;
+    width: calc(100% - 250px);
+    margin-left: 250px;
   }
 
   .page__inner-wrap {
-    width: 100%;
-  }
-
-  .archive {
     width: 100%;
   }
 }
