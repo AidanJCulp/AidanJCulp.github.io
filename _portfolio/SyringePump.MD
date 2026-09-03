@@ -56,28 +56,28 @@ Design and prototype an automated syringe pump that can precisely administer liq
 
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
-| NEMA 17 stepper motor                                                             | 1 | 
-| MEAN WELL RQ-65D AC-DC quad output power supply                    | 1                 | 
-| Arduino Uno                                                        | 1                   | 
-| A4988 stepper driver                                               | 1                   | 
-| REXQualist 400-point breadboard                                    | 1                   | 
-| Panel mount latching push buttons                                  | 1                   | 
-| Limit switch                                                       | 1                  | 
-| RGB common cathode LED                                             | 1                   |
+| NEMA 17 stepper motor                                              | 1 | 
+| MEAN WELL RQ-65D AC-DC quad output power supply                    | 1 | 
+| Arduino Uno                                                        | 1 | 
+| A4988 stepper driver                                               | 1 | 
+| REXQualist 400-point breadboard                                    | 1 | 
+| Panel mount latching push buttons                                  | 1 | 
+| Limit switch                                                       | 1 | 
+| RGB common cathode LED                                             | 1 |
 | 250 mm lead screw with 2 mm pitch and 8 mm lead                    | 1 |
 | 1/4" x 8 mm flexible coupler                                       | 1 |
-| 200 mm linear rod with 8 mm diameter                               | 1                   |  
-| LMUU linear bearing for 8 mm diameter rod                          | 1                   | 
-| 20 x 40 V-Slot aluminum linear rail                                | 1                   | 
-| F688ZZ flange ball bearing                                         | 2                   | 
-| Closed lock collar for lead screw                                  | 2                   | 
-| Open lock collar for linear rod                                    | 2                   | 
-| Tr8x8 brass nut                                                    | 1                   | 
-| M3 x 8 mm thread forming screws                                    | 4          | 
-| M3 x 10 mm bolt                                                    | 4                   | 
-| M5 Tee-Nut                                                         | 8                   | 
-| M5 x 8 mm bolt                                                     | 8                | 
-| Electrical components including wires and resistors                | Various                 |
+| 200 mm linear rod with 8 mm diameter                               | 1 |  
+| LMUU linear bearing for 8 mm diameter rod                          | 1 | 
+| 20 x 40 V-Slot aluminum linear rail                                | 1 | 
+| F688ZZ flange ball bearing                                         | 2 | 
+| Closed lock collar for lead screw                                  | 2 | 
+| Open lock collar for linear rod                                    | 2 | 
+| Tr8x8 brass nut                                                    | 1 | 
+| M3 x 8 mm thread forming screws                                    | 4 | 
+| M3 x 10 mm bolt                                                    | 4 | 
+| M5 Tee-Nut                                                         | 8 | 
+| M5 x 8 mm bolt                                                     | 8 | 
+| Electrical components including wires and resistors                | Various |
 
 <!-- charlesfrech.github.io -->
 
