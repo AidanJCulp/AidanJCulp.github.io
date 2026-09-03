@@ -57,6 +57,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
 | Arduino-Electrical Housing                                           | 1 | 
+| Carriage                                                             | 1 | 
 | End Support                                                          | 1 | 
 | Motor Support                                                        | 1 | 
 | Syringe-Holding Carriage Support                                     | 1 |
