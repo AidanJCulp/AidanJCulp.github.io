@@ -38,17 +38,3 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
-
-@media (min-width: 64em) {
-  .sidebar {
-    width: 250px;
-  }
-
-  .page {
-    width: calc(100% - 250px);
-  }
-
-  .page__inner-wrap {
-    width: 100%;
-  }
-}
