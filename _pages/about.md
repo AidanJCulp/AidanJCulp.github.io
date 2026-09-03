@@ -17,10 +17,9 @@ title: "About Aidan"
 
 ## Work Experience
 
-### Department of Ophthalmology and Visual Sciences, Vanderbilt University Medical Center
+#### Department of Ophthalmology and Visual Sciences, Vanderbilt University Medical Center
 #### Engineering Research Intern
-##### Nashville, TN
-##### May 2026 - Present
+##### Nashville, TN | May 2026 - Present
 * Established manual image-analysis and segmentation protocols in IMARIS for 50+ optic nerve images
 * Developed an automated optic nerve segmentation pipeline using Python, nnUNet, and deep learning
 * Achieved Dice scores above 95% for 3D segmentation models using 5-fold cross-validation
