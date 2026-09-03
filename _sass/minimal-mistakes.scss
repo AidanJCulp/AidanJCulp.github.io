@@ -38,8 +38,3 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
-
-/* Custom styles */
-.page__hero--overlay .page__title {
-  font-size: clamp(28px, 4vw, 42px);
-}
