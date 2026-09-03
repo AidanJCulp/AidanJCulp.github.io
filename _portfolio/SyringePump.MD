@@ -12,6 +12,8 @@ gallery:
    
 ---
 
+---
+
 # Features
 
 * Compatible with 10 mL & 20 mL syringes
@@ -23,6 +25,7 @@ gallery:
 * RGB LED status indicator
 * Fully enclosed electronics compartment
 * 3D-printed custom components
+
 ---
 
 # CAD Model
