@@ -3,7 +3,7 @@ title: "Example Web Page BBBB"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/img/nashville-skyline-at-night-panoramo-dan-holland.jpg
   actions:
     - label: "My Projects"
