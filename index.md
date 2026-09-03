@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page BBBB"
+title: "Aidan J. Culp | Biomedical Engineering & Medical Devices"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Aidan is cool. BBBBB"
+excerpt: "Senior Vanderbilt biomedical engineering student with experience in medical device prototyping, CAD and fabrication, medical imaging, and deep learning. Passionate about developing technologies that improve patient care."
 feature_row:
   - image_path: assets/img/SyringePumpRealLife.png
     alt: "Syringe Pump"
