@@ -56,7 +56,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
-| NEMA 17 stepper motor                                              | 1 | 
+| NEMA 17 stepper motor                                                             | 1 | 
 | MEAN WELL RQ-65D AC-DC quad output power supply                    | 1                 | 
 | Arduino Uno                                                        | 1                   | 
 | A4988 stepper driver                                               | 1                   | 
