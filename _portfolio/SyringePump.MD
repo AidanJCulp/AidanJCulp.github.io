@@ -33,7 +33,7 @@ gallery:
 
 ---
 
-[Arduino Code]
+<a href="https://github.com/AidanJCulp/AidanJCulp.github.io/blob/main/assets/Links/DF2100_MotorStepperCode/DF2100_MotorStepperCode.ino">Arduino Code</a>
 ---
 
 {% include gallery caption="Syringe Pump Gallery" %}
