@@ -56,7 +56,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
-| NEMA 17 stepper motor                                              | 1 | 
+| NEMA stepper motor                                                 | 1 | 
 | MEAN WELL RQ-65D AC-DC quad output power supply                    | 1 | 
 | Arduino Uno                                                        | 1 | 
 | A4988 stepper driver                                               | 1 | 
@@ -75,8 +75,8 @@ Design and prototype an automated syringe pump that can precisely administer liq
 | Tr8x8 brass nut                                                    | 1 | 
 | M3 x 8 mm thread forming screws                                    | 4 | 
 | M3 x 10 mm bolt                                                    | 4 | 
-| M5 Tee-Nut                                                         | 8 | 
-| M5 x 8 mm bolt                                                     | 8 | 
+| M5 Tee-Nut                                                         | 4 | 
+| M5 x 8 mm bolt                                                     | 4 | 
 | Electrical components including wires and resistors                | Various |
 
 <!-- charlesfrech.github.io -->
