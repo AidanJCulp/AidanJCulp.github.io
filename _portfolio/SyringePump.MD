@@ -61,12 +61,12 @@ Design and prototype an automated syringe pump that can precisely administer liq
 | [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3)                                 | 1                   |  
 | [LMUU linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)                             | 1                   | 
 | [20 x 40 V-Slot aluminum linear rail](https://openbuildspartstore.com/v-slot-20x40-linear-rail/)                                  | 1                   | 
-| [NEMA 17 stepper motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)                                                | 1                   | 
+| [NEMA 17 stepper motor](https://www.amazon.com/gp/product/B07LF898KN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)                | 1 | 
 | [MEAN WELL RQ-65D AC-DC quad output power supply](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) | 1                 | 
 | [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ)                                                          | 1                   | 
 | [A4988 stepper driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1)                                                 | 1                   | 
 | [REXQualist 400-point breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1)                                      | 1                   | 
-| [Panel mount latching push buttons](https://amzn.to/3VxQ29h                                    | 1                   | 
+| [Panel mount latching push buttons](https://amzn.to/3VxQ29h)                                   | 1                   | 
 | [Limit switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)                                                         | 1                  | 
 | [RGB common cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1)                                               | 1                   | 
 | [F688ZZ flange ball bearing](https://www.amazon.com/uxcell-Bearing-8x16x5mm-Shielded-Bearings/dp/B07RVHTY3V/ref=sr_1_4?crid=17UOU208N0O6F&dib=eyJ2IjoiMSJ9.HOTRTml3NQ0GPksGnan0AGR_ZrBvAsHZDZIoFXeNkJUnm-Y7qAfxgFtQRODDs4BHl3lyCcqZF6tDDubJQ_6YcuOlp6or0hGFGhEKgltzqkSTSrqXSLjCqh4yMK2-ASnS2JMq0S9UtflWCBr-DovT6A.FHSc0qN8xVYI7WmieDQ8KQicMlXriLO6b6dwLTyHBIA&dib_tag=se&keywords=f688zz%2Bflanged%2Bbearings&qid=1705259259&sprefix=f688zz%2Bflanged%2Bbearings%2Caps%2C78&sr=8-4&th=1)                                               | 2                   | 
