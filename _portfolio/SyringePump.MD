@@ -57,7 +57,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 |      Part                                                            |     Quantity            |
 | ---------------------------------------------------------------------|:--------------------------:|
 | [250 mm lead screw with 2 mm pitch and 8 mm lead](https://amzn.to/3infwI0)                      | 1 |
-| [1/4" x 8 mm flexible coupler](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/)                                         | 1                   |
+| [1/4" x 8 mm flexible coupler](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/)                                         | 1 |
 | [200 mm linear rod with 8 mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3)                                 | 1                   |  
 | [LMUU linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)                             | 1                   | 
 | [20 x 40 V-Slot aluminum linear rail](https://openbuildspartstore.com/v-slot-20x40-linear-rail/)                                  | 1                   | 
@@ -66,8 +66,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 | [Arduino Uno](https://www.amazon.com/dp/B007R9TUJE/ref=cm_sw_em_r_mt_dp_TY8JGK0CJD1JEJM4BNNJ)                                                          | 1                   | 
 | [A4988 stepper driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1)                                                 | 1                   | 
 | [REXQualist 400-point breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1)                                      | 1                   | 
-| [Panel mount latching push buttons](https://amzn.to/3VxQ29h)                                    | 1                   | 
-| [Panel mount non-latching push buttons](https://www.amazon.com/Non-Latching-Momentary-Non-Locking-Normally-oorbell/dp/B0B63PT9PB/ref=sr_1_3adgrpid=1331510951630385&dib=eyJ2IjoiMSJ9.LrB4lPX7ZtipmPMcUgqllMQjLafqyAYwHec6e_WH49-H3N4f4GCO6cAlj_O5UEgP8XDJW64eJnWlgiH6OH6Rz9IQxmqY-zIuQ2hYwyNc7u0-PdK3c4xwU38_j_ZPFE4a3ki6KGEwp3HCvmGGg1e_iA.WlLBeu58unGL-fJ_7WYOiImrYylo8l2mhe_YpN0LTEo&dib_tag=se&hvadid=83219689318242&hvbmt=bp&hvdev=c&hvlocphy=83973&hvnetw=o&hvqmt=p&hvtargid=kwd-83220462151988%3Aloc-190&hydadcr=7664_13467799&keywords=non+latching+push+button&qid=1705252826&sr=8-3)                                    | 2            | 
+| [Panel mount latching push buttons](https://amzn.to/3VxQ29h                                    | 1                   | 
 | [Limit switch](https://www.amazon.com/gp/product/B073TYWX86/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)                                                         | 1                  | 
 | [RGB common cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1)                                               | 1                   | 
 | [F688ZZ flange ball bearing](https://www.amazon.com/uxcell-Bearing-8x16x5mm-Shielded-Bearings/dp/B07RVHTY3V/ref=sr_1_4?crid=17UOU208N0O6F&dib=eyJ2IjoiMSJ9.HOTRTml3NQ0GPksGnan0AGR_ZrBvAsHZDZIoFXeNkJUnm-Y7qAfxgFtQRODDs4BHl3lyCcqZF6tDDubJQ_6YcuOlp6or0hGFGhEKgltzqkSTSrqXSLjCqh4yMK2-ASnS2JMq0S9UtflWCBr-DovT6A.FHSc0qN8xVYI7WmieDQ8KQicMlXriLO6b6dwLTyHBIA&dib_tag=se&keywords=f688zz%2Bflanged%2Bbearings&qid=1705259259&sprefix=f688zz%2Bflanged%2Bbearings%2Caps%2C78&sr=8-4&th=1)                                               | 2                   | 
@@ -78,7 +77,7 @@ Design and prototype an automated syringe pump that can precisely administer liq
 | M3 x 10 mm bolt                                               | 4                   | 
 | M5 Tee-Nut                                             | 8                   | 
 | M5 x 8 mm bolt                                                 | 8                | 
-| Electrical components including wires and resistors                  | Varies depending on wiring schematic                 |
+| Electrical components including wires and resistors                  | Various                 |
 
 <!-- Thanks to Charlie Frech | charlesfrech.github.io -->
 
