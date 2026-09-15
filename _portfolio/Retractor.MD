@@ -44,4 +44,4 @@ To accurately reverse engineer the mechanical design of a Weitlaner Retractor an
 
 ---
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="Retractor Gallery" %}
