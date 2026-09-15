@@ -1,6 +1,6 @@
 ---
 title: "Reverse-Engineered Weitlaner Retractor"
-excerpt: "Reverse-engineering project of a functional Weitlaner Retractor. The project involved precision caliper measurements, CAD modeling in SolidWorks, assembly development, and prototyping to assess dimensional accuracy and mechanical performance."
+excerpt: "Reverse-engineering project of a Weitlaner Retractor with precision caliper measurements, CAD modeling in SolidWorks, and prototyping to check dimensional accuracy and mechanical performance."
 
 header:
   image: /assets/img/RetractorPrint.png
