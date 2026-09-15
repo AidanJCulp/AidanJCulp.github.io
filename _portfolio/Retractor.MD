@@ -1,6 +1,6 @@
 ---
-title: "Precision Syringe Pump"
-excerpt: "A 3D-printed, Arduino-controlled syringe pump designed to deliver fluids at a precise, adjustable flow rate using a stepper motor and lead screw mechanism."
+title: "Reverse-Engineered Weitlaner Retractor"
+excerpt: 
 
 header:
   image: /assets/img/SyringePumpBanner.png
