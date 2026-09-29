@@ -13,6 +13,7 @@ gallery:
   - image_path: assets/img/EllipsePivotAssembly.png
 
 ---
+---
 
 # Purpose
 
@@ -98,7 +99,10 @@ The final architecture separates the mechanism into three primary functions:
 
 The completed pliers operate by squeezing the two PLA handles together. As the handles rotate about the TPU pivot, the handles compress the TPU spacer. This closes the needle-nose jaws and stores elastic energy in the flexible material. When the handles are released, the TPU spacer expands toward its original shape, rotating the handles in the opposite direction and reopening the jaws.
 
-![Pliers in Operation](/assets/img/PliersAction.mov)
+<video width="640" controls>
+  <source src="/assets/img/PliersAction.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -135,5 +139,3 @@ The completed pliers operate by squeezing the two PLA handles together. As the h
 
 * [Needle-Nose Print-in-Place Pliers — MakerWorld](https://makerworld.com/en/models/1036900-pliers-needle-nose-print-in-place-three-sizes#profileId-1020896)
 * [3D-Printable Pliers — MakerWorld](https://makerworld.com/en/models/649072-pliers-3d-printable-tool#profileId-576450)
-
----
