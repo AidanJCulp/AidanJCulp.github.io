@@ -25,9 +25,7 @@ Print-in-place designs depend heavily on **tolerance and clearance**. A clearanc
 Examples that influenced this project include:
 
 - [Needle-Nose Print-in-Place Pliers](https://makerworld.com/en/models/1036900-pliers-needle-nose-print-in-place-three-sizes#profileId-1020896) — an example of a compact needle-nose plier geometry incorporating the mechanism into the printed tool.
-- [3D-Printable Pliers](https://makerworld.com/en/models/649072-pliers-3d-printable-tool#profileId-576450) — another functional printed plier design that provided a reference for handle and pivot geometry.
-- [Prusa Print-in-Place Bag Clip](https://blog.prusa3d.com/quick-prints-contest-winners_60523/) — demonstrates how multiple hinges can be incorporated directly into a functional print-in-place mechanism.
-- [Examples of 3D-Printed Hinges](https://all3dp.com/2/3d-printed-hinge-great-curated-models-to-3d-print/) — demonstrates applications of printed hinges in doors, containers, clips, and other articulated parts.
+- [3D-Printable Pliers](https://makerworld.com/en/models/649072-pliers-3d-printable-tool#profileId-576450) — another functional printed plier design that provided a reference for handle and pivot geometry
 
 ---
 
@@ -82,7 +80,7 @@ The pivot also used an **hourglass-shaped profile** intended to keep the two PLA
 
 Although the concept produced a spring effect, retention was unreliable. The handles could work themselves off the pivot, and the flexible pivot could slip relative to the surrounding PLA components. This demonstrated that the spring and retention functions needed to be separated.
 
-![Ellipse Pivot Assembly](/assets/img/EllipsePivotAssembly.png)
+![Ellipse Pivot Assembly](/assets/img/EllipsePivotAssembly.mov)
 
 ---
 
