@@ -99,9 +99,8 @@ The final architecture separates the mechanism into three primary functions:
 
 The completed pliers operate by squeezing the two PLA handles together. As the handles rotate about the TPU pivot, the handles compress the TPU spacer. This closes the needle-nose jaws and stores elastic energy in the flexible material. When the handles are released, the TPU spacer expands toward its original shape, rotating the handles in the opposite direction and reopening the jaws.
 
-<video controls autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="{{ '/assets/img/PliersAction.mov' | relative_url }}" type="video/quicktime">
-  Your browser does not support the video tag.
+<video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
+  <source src="{{ '/assets/img/PliersAction.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 ---
